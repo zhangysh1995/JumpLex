@@ -1,2 +1,2 @@
 # JumpLex
-Jump Jump jump to dictionaries
+Jump Jump Jump to dictionaries
