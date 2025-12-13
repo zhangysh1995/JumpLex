@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "JumpLex",
-  "version": "0.1",
+  "version": "0.1.1",
   "description": "右键菜单：用指定网站查询选中的单词",
   "permissions": ["contextMenus"],
   "background": {
